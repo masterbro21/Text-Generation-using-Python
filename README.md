@@ -12,4 +12,5 @@ This project implements a text generation model using PyTorch. It uses a Conv1D 
 
 ## Sample Output
 Seed Text: "I was playing in the garden and ball"
+
 Generated Text: "It was a dark and stormy night the rain fell heavily and thunder roared through the darkness."
